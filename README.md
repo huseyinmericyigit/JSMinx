@@ -1,2 +1,2 @@
 # JSMinx
-JSCompress
+JSCompress v1.0.0
